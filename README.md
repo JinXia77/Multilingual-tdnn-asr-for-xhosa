@@ -1,4 +1,4 @@
-The dissertation is report.pdf which show the main part of this project
+The dissertation is report.pdf which show the main part of this project. This project is based on kaldi/egs/babel_multilingual. To run this program, it is necessary to do the configuration followed as kaldi/egs/babel_multilingual/s5/README.txt
 
 There is also a folder called "scripts". Below the scripts folder, there are some project scripts and final results under the GMM, monolingual, multilingaul folders. 
 
