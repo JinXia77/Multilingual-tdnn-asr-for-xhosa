@@ -1,4 +1,4 @@
-The dissertation is B174090_MSC_Dissertation.pdf
+The dissertation is report.pdf which show the main part of this project
 
 There is also a folder called "scripts". Below the scripts folder, there are some project scripts and final results under the GMM, monolingual, multilingaul folders. 
 
